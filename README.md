@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm practicing my python programming skills and would appreciate any advice on improving my code.
 
-Thank all of you in advance.
+Thanks to all of you in advance.
 <!--
 **Nigredo499/Nigredo499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
